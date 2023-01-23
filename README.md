@@ -16,14 +16,25 @@ Here are some ideas to get you started:
 
 
 # Raccoon 🐾
-### Who Am I
-- 🌱 I’m currently learning JS, React, Algorithm
+
+
+### Skill
+
+- javascript, React, NextJS
 - 🌃 Live in Seoul
 
+
 ### Experience
+
+
+- 🏢 [쨰깍악어](https://parent.tictoccroc.com/) (2021.10-현재)
+
+
+### Education
 - 🎓 Codesquad Web Frontend Masters course (2021.01-2021.06)
 
-### What I Like
+
+### Interest
 - 🍝 Pasta
 - 🗺 Diving
 - 📸 Photo
