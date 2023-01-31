@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Skill
 
-- javascript, React, NextJS
+- Javascript, Typescript, React, NextJS
 - 🌃 Live in Seoul
 
 
